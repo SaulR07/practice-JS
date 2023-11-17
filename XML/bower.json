@@ -1,0 +1,17 @@
+{
+  "name": "XML",
+  "description": "Proyecto para leer xml con Js",
+  "main": "index.js",
+  "authors": [
+    "Saul Reyes Medina"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
